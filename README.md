@@ -1,6 +1,6 @@
 # We are digital - CSS frontend challenge
 
-## CSS FLEX BOXES
+## CSS FLEX BOXES - [Click here](https://priyankamk.github.io/Responsive_Flex_Box/box.html)
 
 ## My Approach:
 - I went along implementing simple CSS using flex and media query.
